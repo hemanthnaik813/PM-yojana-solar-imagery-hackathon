@@ -1,0 +1,98 @@
+[
+  {
+    "sample_id": 1,
+    "lat": 12.9716,
+    "lon": 77.5946,
+    "has_solar": true,
+    "confidence": 0.77,
+    "panel_count_est": 4,
+    "pv_area_sqm_est": 6.8,
+    "capacity_kw_est": 1.32,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "qc_notes": [
+      "clear roof view",
+      "distinct solar panels detected"
+    ],
+    "bbox_or_mask": "segmentation",
+    "image_metadata": {
+      "source": "Demo Satellite Image (Evaluation Mode)",
+      "buffer_meters": 10,
+      "bbox": "demo",
+      "note": "live imagery unavailable; demo image used"
+    },
+    "audit_image": "C:\\Users\\sivu kumar\\OneDrive\\Desktop\\ai-rooftop-pv-verification\\output\\audit\\site_1_audit.png"
+  },
+  {
+    "sample_id": 2,
+    "lat": 28.6139,
+    "lon": 77.209,
+    "has_solar": true,
+    "confidence": 0.77,
+    "panel_count_est": 4,
+    "pv_area_sqm_est": 6.8,
+    "capacity_kw_est": 1.32,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "qc_notes": [
+      "clear roof view",
+      "distinct solar panels detected"
+    ],
+    "bbox_or_mask": "segmentation",
+    "image_metadata": {
+      "source": "Demo Satellite Image (Evaluation Mode)",
+      "buffer_meters": 10,
+      "bbox": "demo",
+      "note": "live imagery unavailable; demo image used"
+    },
+    "audit_image": "C:\\Users\\sivu kumar\\OneDrive\\Desktop\\ai-rooftop-pv-verification\\output\\audit\\site_2_audit.png"
+  },
+  {
+    "sample_id": 3,
+    "lat": 19.076,
+    "lon": 72.8777,
+    "has_solar": true,
+    "confidence": 0.77,
+    "panel_count_est": 4,
+    "pv_area_sqm_est": 6.8,
+    "capacity_kw_est": 1.32,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "qc_notes": [
+      "clear roof view",
+      "distinct solar panels detected"
+    ],
+    "bbox_or_mask": "segmentation",
+    "image_metadata": {
+      "source": "Demo Satellite Image (Evaluation Mode)",
+      "buffer_meters": 10,
+      "bbox": "demo",
+      "note": "live imagery unavailable; demo image used"
+    },
+    "audit_image": "C:\\Users\\sivu kumar\\OneDrive\\Desktop\\ai-rooftop-pv-verification\\output\\audit\\site_3_audit.png"
+  },
+  {
+    "sample_id": 4,
+    "lat": 13.0827,
+    "lon": 80.2707,
+    "has_solar": true,
+    "confidence": 0.77,
+    "panel_count_est": 4,
+    "pv_area_sqm_est": 6.8,
+    "capacity_kw_est": 1.32,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "qc_notes": [
+      "clear roof view",
+      "distinct solar panels detected"
+    ],
+    "bbox_or_mask": "segmentation",
+    "image_metadata": {
+      "source": "Demo Satellite Image (Evaluation Mode)",
+      "buffer_meters": 10,
+      "bbox": "demo",
+      "note": "live imagery unavailable; demo image used"
+    },
+    "audit_image": "C:\\Users\\sivu kumar\\OneDrive\\Desktop\\ai-rooftop-pv-verification\\output\\audit\\site_4_audit.png"
+  }
+]

@@ -1,0 +1,26 @@
+# Virtual environments
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Output images (optional – keep JSON only)
+output/sat_images/
+output/audit/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
